@@ -1,4 +1,4 @@
-### Final Project (Portfolio)
+# Final Project (Portfolio)
 
 ### Bio and LinkedIn
 
