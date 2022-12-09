@@ -6,3 +6,4 @@
 
 https://github.com/el4701/Final-Project/blob/main/SQL_HW1_Lapszynski.ipynb
 
+https://github.com/el4701/Final-Project/blob/main/SQL_HW2_Lapszynski.ipynb
