@@ -1,7 +1,7 @@
 # Final Project (Portfolio)
 
 ### Bio/LinkedIn
-www.linkedin.com/in/erik-lapszynsk
+www.linkedin.com/in/erik-lapszynski
 
 ### Database management tasks using SQL and Python
 https://github.com/el4701/Final-Project/blob/main/SQL_HW1_Lapszynski.ipynb
